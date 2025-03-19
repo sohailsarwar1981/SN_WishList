@@ -19,7 +19,7 @@
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>
-        <message><![CDATA[<p>Please add a quantity greater than zero.</p>]]></message>
+        <message><![CDATA[<p>Please add a quantity greater than zero..</p>]]></message>
         <name>Validate Quantity</name>
         <order>50</order>
         <priority>100</priority>
@@ -40,15 +40,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5245e8bec3dcee10bc92554d05013170</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Validate Quantity</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_1564615_wishlist">45f0b3bbc3621610bc92554d050131e0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">45f0b3bbc3621610bc92554d050131e0</sys_scope>
         <sys_update_name>sys_script_5245e8bec3dcee10bc92554d05013170</sys_update_name>
-        <sys_updated_by>carol.coughlin</sys_updated_by>
-        <sys_updated_on>2025-03-18 23:31:27</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-19 21:47:26</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
